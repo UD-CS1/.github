@@ -1,4 +1,12 @@
-## Hi there 👋
+## Overview
+Welcome to the University of Delaware CS1 organization. As of 2024, this is the place to collect and manage the resources that go to teaching CISC106 and CISC108.
+
+## Resources
+[Link to Ella Wilkins projects (which include the spring and fall 2024 CS1 prep boards)](https://github.com/ellawlk?tab=projects)
+
+# ToDo
+- [x] Add intro to the org
+- [x] Add collection of related resources.
 
 <!--
 
