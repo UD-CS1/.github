@@ -1,4 +1,1 @@
-# ToDo
-Add intro to the org and a collection of related resources.
-
-[Link to Ella Wilkins projects (which include the spring and fall 2024 CS1 prep boards)](https://github.com/ellawlk?tab=projects)
+This repo is solely to host [the organizational README](profile/README.md), which is in [the profile folder of this repository](https://github.com/UD-CS1/.github/tree/main/profile).
