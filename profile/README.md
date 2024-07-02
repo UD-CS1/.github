@@ -1,8 +1,17 @@
 ## Overview
-Welcome to the University of Delaware CS1 organization. As of 2024, this is the place to collect and manage the resources that go to teaching CISC106 and CISC108.
+Welcome to the University of Delaware CS1 organization. As of 2024, this is the place to collect and manage the resources that go to teaching CISC106 and CISC108. Below is the division of topics covered in the textbook.
+
+![CS1 Topics](Topics.JPG)
+
+These topics, and others, are implemented in the Canvas Learning Management System using the Pedal feedback toolkit, via the ~~BlockPy~~ Prism platform.
+
+![Pedal feedback in Canvas](PedalCanvas.JPG)
 
 ## Resources
-[Link to Ella Wilkins projects (which include the spring and fall 2024 CS1 prep boards)](https://github.com/ellawlk?tab=projects)
+- [Link to Ella Wilkins projects (which include the spring and fall 2024 CS1 prep boards)](https://github.com/ellawlk?tab=projects)
+- [Python Bakery Textbook](https://blockpy.cis.udel.edu/assignments/textbook/bakery_textbook)
+- [Python Bakery Issue Tracker](https://github.com/python-bakery/bakery-curriculum/issues)
+- [Pedal repository](https://pedal-edu.github.io/pedal/)
 
 # ToDo
 - [x] Add intro to the org
